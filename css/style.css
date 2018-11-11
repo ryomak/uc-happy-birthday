@@ -34,6 +34,11 @@ a:hover, .active{
 a:active, a:focus,input:active, input:focus{outline:0;}
 
 
+#mainImg{
+	width: 100vw;
+	position: absolute;
+	top:0; 
+}
 /* ヘッダー
 ------------------------------------------------------------*/
 #mainnav a{
